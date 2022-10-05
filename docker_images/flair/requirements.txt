@@ -1,5 +1,5 @@
 starlette==0.14.2
 pydantic==1.8.1
-flair==0.11.1
+flair==0.11.3
 api-inference-community==0.0.23
 huggingface_hub==0.5.1
